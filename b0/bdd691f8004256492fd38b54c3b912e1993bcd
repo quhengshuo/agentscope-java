@@ -1,0 +1,19 @@
+agentscope-core/src/main/java/io/agentscope/core/state/AgentStateStore.java
+  s_dc43bfd85cb5a0::t_c8cd1f7cfb32ce 36-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "b0bdd691f8004256492fd38b54c3b912e1993bcd",
+  "prompts": {},
+  "sessions": {
+    "s_dc43bfd85cb5a0": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_4fee69d5-8a66-451b-8824-c9059f4911c9",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": "quhs <quhs@trip.com>"
+    }
+  }
+}
