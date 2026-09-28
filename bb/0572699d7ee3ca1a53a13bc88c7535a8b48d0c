@@ -1,0 +1,29 @@
+agentscope-core/src/main/java/io/agentscope/core/ReActAgent.java
+  s_dc43bfd85cb5a0::t_6a731fc5df175d 396,477,480-481,701,1721-1722,1725-1727,1729,1731-1732,1815-1816,1820-1822
+  s_dc43bfd85cb5a0::t_2c99c6b93cc11d 397-400
+  s_dc43bfd85cb5a0::t_f216d5aa23aa88 1730
+  s_dc43bfd85cb5a0::t_95e22d3bcd0eb0 1723-1724,1728
+agentscope-core/src/test/java/io/agentscope/core/agent/ReActAgentPerSessionStateTest.java
+  s_dc43bfd85cb5a0::t_7fbd4f0c0dcb11 52,55,57,63,67-69
+  s_dc43bfd85cb5a0::t_12196fb44b6c51 349
+  s_dc43bfd85cb5a0::t_b6f0886b22e18b 359
+  s_dc43bfd85cb5a0::t_e3c2fa64ab175b 284-285
+  s_dc43bfd85cb5a0::t_85da785f90f26c 313,315-317
+  s_dc43bfd85cb5a0::t_6f65b66f784adf 282-283,286-312,314,318-348,350-358,360-364
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "bb0572699d7ee3ca1a53a13bc88c7535a8b48d0c",
+  "prompts": {},
+  "sessions": {
+    "s_dc43bfd85cb5a0": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_4fee69d5-8a66-451b-8824-c9059f4911c9",
+        "model": "claude-opus-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
